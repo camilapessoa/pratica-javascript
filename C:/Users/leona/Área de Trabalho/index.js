@@ -18,4 +18,4 @@ function showBiggerValue(number1, number2) {
     alert(number1 > number2 ? number1 : number2);
 }
 
-// nunca usem reduce (que isso, reduce é vida)
+// nunca usem reduce
