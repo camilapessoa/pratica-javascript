@@ -1,13 +1,13 @@
 // 1 - Faça um Programa que peça dois números e imprima o maior deles.
 
-const num1 = document.getElementById('num1').value;
-const num2 = document.getElementById('num2').value;
+const num1 = document.getElementById('num1');
+const num2 = document.getElementById('num2');
 
 const btn = document.getElementById('butao');
 
 btn.addEventListener('click', () => {
-    const numero1 = num1.replace(',', '.');
-    const numero2 = num2.replace(',', '.');
+    const numero1 = num1.value.replace(',', '.');
+    const numero2 = num2.value.replace(',', '.');
 
     showBiggerValue(numero1, numero2);
 })
@@ -18,4 +18,5 @@ function showBiggerValue(number1, number2) {
     alert(number1 > number2 ? number1 : number2);
 }
 
-// nunca usem reduce (que isso, reduce é vida)
+//  usem reduce
+// buquem conhecimento
