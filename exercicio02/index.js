@@ -7,7 +7,7 @@ function verificaValor(){
     } else if (valor === 0){
         console.log(`O valor ${valor} é neutro`);
         resposta.innerText = `O valor ${valor} é neutro`;
-    }else {
+    } else {
         console.log(`O valor ${valor} é negativo`);
         resposta.innerText = `O valor ${valor} é negativo`;
     }
