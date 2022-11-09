@@ -1,14 +1,18 @@
 # Prática JavaScript
+
 - Prática conjunta de lógica de programação com exercícios em JS
 - O objetivo principal é praticar lógica e perder a timidez durante a Live Coding
 
 ### Somos amigos da vizinhança!
+![](assets/spiderman.gif)
+
 - Prática
 - Ajuda
 - Aprendizado
 - Diversão!
 
 ## Proibido
+![](assets/spiderman-magic.gif)
 - Desrespeito
 - Preconceito
 - Não participar =D
@@ -21,6 +25,7 @@
 - Sugestões de problemas
 
 # Desafios
+![](assets/spiderman-angry.gif)
 
 1 - Faça um Programa que peça dois números e imprima o maior deles.
 
