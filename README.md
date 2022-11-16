@@ -31,5 +31,5 @@
 
 2 - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo
 
-3 - Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
+3 - Um veterinário precisa de um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Fêmea, M - Macho, entrada Inválida.
 
