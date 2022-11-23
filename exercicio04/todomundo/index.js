@@ -5,9 +5,9 @@ function verificaLetra(){
     const vogais = "aeiou"
     const consoantes = "bcdfhklmnpqrstvwxyz"
 
-    if(vogais.includes(letra)){
+    if(vogais.includes(letra.toLowerCase())){
         checagem.innerHTML = `A letra ${letra} é uma vogal`
-    }else if (consoantes.includes(letra)){
+    }else if (consoantes.includes(letra.toLowerCase())){
         checagem.innerHTML = `A letra ${letra} é um consoante`
     }else{
         checagem.innerHTML = `Desconhecido. Insira uma letra`
