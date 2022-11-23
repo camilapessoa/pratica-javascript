@@ -17,3 +17,5 @@ function verificaLetra(){
 
 //uppercase tolowercase
 //inserir validação com includes em uma variável 
+//const validaVogal = vogais.includes(letra.toLowerCase())
+//textContent: https://www.w3schools.com/JSREF/prop_node_textcontent.asp

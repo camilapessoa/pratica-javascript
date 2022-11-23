@@ -40,3 +40,7 @@
     - A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
     - A mensagem "Reprovado", se a média for menor do que sete;
     - A mensagem "Aprovado com Distinção", se a média for igual a dez.
+6 - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+
+
+Sistema de login simplificado - localStorage
