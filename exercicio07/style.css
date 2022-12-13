@@ -1,0 +1,24 @@
+html{
+    display: flex;
+    justify-content: center;
+  }
+  
+  body{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+  }
+  
+  input{
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+  }
+  
+  input[type=button]{
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  input[type=button]:hover{
+    filter: brightness(0.9);
+  }
