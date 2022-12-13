@@ -2,6 +2,7 @@
 
 - Prática conjunta de lógica de programação com exercícios em JS
 - O objetivo principal é praticar lógica e perder a timidez durante a Live Coding
+- Não é uma competição!
 
 ### Somos amigos da vizinhança!
 ![](assets/spiderman.gif)
@@ -16,6 +17,7 @@
 - Desrespeito
 - Preconceito
 - Não participar =D
+- Usar reduce! kkkkkkkkkkk
 
 ## Preciso saber JavaScript?
 - Vamos aprender juntos. Além disso compartilhamos conhecimento e plano de estudos para que todos possam acompanhar e participar das sessões.
