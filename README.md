@@ -1,5 +1,7 @@
 # Prática JavaScript
 
+Aprendizado do Marcelo: "Master Yi - Um verdadeiro mestre é um eterno aprendiz"
+
 - Prática conjunta de lógica de programação com exercícios em JS
 - O objetivo principal é praticar lógica e perder a timidez durante a Live Coding
 - Não é uma competição!
