@@ -1,50 +1,43 @@
-# Prática JavaScript
+# Grupo de Estudos Js com Node.js
 
-Aprendizado do Marcelo: "Master Yi - Um verdadeiro mestre é um eterno aprendiz"
+Acesse o [trello](https://trello.com/b/jAtvoRTM/nodejs-grupo-de-estudos-alura) para conferir os passos.
 
-- Prática conjunta de lógica de programação com exercícios em JS
-- O objetivo principal é praticar lógica e perder a timidez durante a Live Coding
-- Não é uma competição!
+## Desafios da semana 1 
+### Curso Tipos, variáveis e funções e curso de Arrays
 
-### Somos amigos da vizinhança!
-![](assets/spiderman.gif)
-
-- Prática
-- Ajuda
-- Aprendizado
-- Diversão!
-
-## Proibido
-![](assets/spiderman-magic.gif)
-- Desrespeito
-- Preconceito
-- Não participar =D
-- Usar reduce! kkkkkkkkkkk
-
-## Preciso saber JavaScript?
-- Vamos aprender juntos. Além disso compartilhamos conhecimento e plano de estudos para que todos possam acompanhar e participar das sessões.
-
-## Encerramento
-- Retro: sempre podemos melhorar algo
-- Sugestões de problemas
-
-# Desafios
-![](assets/spiderman-angry.gif)
-
-1 - Faça um Programa que peça dois números e imprima o maior deles.
-
-2 - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo
-
-3 - Um veterinário precisa de um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Fêmea, M - Macho, entrada Inválida.
-
-4 - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
-
-5 - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
-
-    - A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
-    - A mensagem "Reprovado", se a média for menor do que sete;
-    - A mensagem "Aprovado com Distinção", se a média for igual a dez.
-6 - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+ 1) crie uma função para cada uma das operações básicas (soma, subtração, multiplicação e divisão), cada uma delas recebendo 2 números como parâmetros e retornando o resultado
 
 
-Sistema de login simplificado - localStorage
+2) para esse exercício, as funções de multiplicação e divisão não devem aceitar valores iguais a 0 (zero). Adicione esta lógica nas funções.
+
+
+3) crie uma função que chame internamente qualquer uma das funções acima e imprima o resultado no formato de String. Exemplo: "O resultado da operação é X" (sendo X o valor do resultado).
+
+
+4) utilizando as funções de soma e multiplicação já feitas nos exercícios anteriores, crie uma nova função que chame essas funções e resolva a conta 36325 * (9824 + 777).
+
+
+5) crie uma função que receba dois números e gere outros dois números aleatórios com valores entre eles. Exemplo: uma função que receba (1, 100) deve gerar dois números aleatórios entre 1 e 100 (por exemplo, 54 e 12). Em seguida, some estes números e devolva uma string com o resultado no formato: "a soma de [número aleatório] e [número aleatório] é XXX". Você vai ter que pesquisar o método do JS para gerar números aleatórios, `Math.random()` e como utilizá-lo.
+
+
+6) Crie uma função com as seguintes características:
+   1. A função deve receber 3 números
+   2. Se qualquer um dos três números não forem informados, a função deve retornar a string: "Preencha todos os valores corretamente!"
+   3. O retorno da função deve ser a multiplicação dos 3 números, somando `2` ao resultado da multiplicação. DICA: pesquise o que aparece no console.log caso uma função precise de um parâmetro, mas não receba nenhum.  
+
+
+7) Crie uma função com as seguintes características:
+   1. A função deve receber 3 parâmetros.
+   2. Se somente um parâmetro for passado, retorne o valor do parâmetro.
+   3. Se dois parâmetros forem passados, retorne a soma dos dois parâmetros.
+   4. Se todos os parâmetros forem passados, retorne a soma do primeiro com o segundo, e o resultado dividido pelo terceiro.
+   5. Se nenhum parâmetro for passado, retorne "não recebeu parâmetro"
+
+
+8) crie uma função que receba uma string como parâmetro, e retorne essa mesma string invertida. Por exemplo, recebendo "alura", vai retornar "arula". Para isso, você vai ter que pesquisar como usar JavaScript para inverter uma string.
+
+
+9) Agora que você já sabe reverter strings, crie uma função que receba uma string, verifique se é um palíndromo e retorne true ou false. Exemplo de palíndromo: "arara".
+
+
+10) crie uma função que receba duas strings como parâmetros e retorne a string com a maior quantidade de caracteres. Por exemplo, se passarmos como parâmetro "banana" e "chocolate" a função deve retornar "chocolate"
